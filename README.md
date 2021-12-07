@@ -33,4 +33,11 @@ ex. [*THE* **AWESOME** ***Reference*** :)][md_tutorial] and [AWESOME GOOGLE][goo
     [md_tutorial]: https://www.markdowntutorial.com
     [google]: https://www.google.com
 ## Section 4) Images ... 
-14.
+14. for an image, use inline link or reference link and preface it with an exclamation point (!):<br/>
+ex. ![Benjamin Bannekat](https://octodex.github.com/images/bannekat.png)
+## Section 5) Blockquotes ...
+15. for a blockquote, preface the line with greater than caret (>):<br/>
+> ex. a blockquote.
+> 
+> it can contain other Markdown elements like *italic*, **bold**, ***etc***.
+
